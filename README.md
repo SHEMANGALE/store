@@ -1,0 +1,2 @@
+# store
+manage ict devices 
